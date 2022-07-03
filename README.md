@@ -22,7 +22,9 @@
 
 
 ## The following files need NodeJS to be installed and ready to be used.
-``` npm install```
+``` 
+npm install
+```
 
 ![npm Install](https://raw.githubusercontent.com/fabio-r-almeida/Premium-Minds-Challenge/main/Images/npm_install.png?token=GHSAT0AAAAAABWBIQAVFAWQEYILR3GIKWQYYWBU3KQ)
 
@@ -37,6 +39,8 @@ NNSEOSE
 
 
 ## To run the test
-``` npm test```
+``` 
+npm test
+```
 
 ![Test output](https://raw.githubusercontent.com/fabio-r-almeida/Premium-Minds-Challenge/main/Images/Test%20output.png?token=GHSAT0AAAAAABWBIQAUX6ZQ7XPO7HSMEAIWYWBU4CA)
