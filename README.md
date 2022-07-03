@@ -21,8 +21,8 @@
 
 # Introduction
 This challenge was completed using NodeJS with the following libraries
-> readline-sync - to read a prompt input
-> jest - to test the code
+>readline-sync - to read a prompt input
+>jest - to test the code
 
 
 ## The following files need NodeJS to be installed and ready to be used.
