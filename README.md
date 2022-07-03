@@ -25,6 +25,7 @@ This challenge was completed using NodeJS with the following libraries
 readline-sync : to read a prompt input
 jest : to test the code
 ```
+Uses a dynamic grid generator to improve performance. It creates a grid big enough for all possible combinations depending on the input path. This saves processing time and makes the code run faster. 
 
 # How to use
 ## The following files need NodeJS to be installed and ready to be used.
