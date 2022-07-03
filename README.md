@@ -26,7 +26,7 @@ readline-sync : to read a prompt input
 jest : to test the code
 ```
 
-
+# How to use
 ## The following files need NodeJS to be installed and ready to be used.
 ```
 npm install
