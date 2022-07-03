@@ -13,7 +13,7 @@
 
 ## Formato do input
 >O programa deve ler uma linha do stdin, que contém uma sequência de movimentos. Cada movimento é
->descrito por uma letra N, S, Eou O(respetivamente: norte, sul, este, oeste).
+>descrito por uma letra N, S, E ou O(respetivamente: norte, sul, este, oeste).
 ## Formato do output
 >O programa deve escrever uma linha para o stdout, apenas com um número: quantos pokémons o Ash
 >apanhou?
