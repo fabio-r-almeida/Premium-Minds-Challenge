@@ -1,6 +1,6 @@
 # Premium-Minds-Challenge
 
-#Challenge 
+# Challenge 
 
 > O Ash está a apanhar pokémons num mundo que consiste numa grelha bidimensional infinita de casas.
 > Em cada casa há exatamente um pokémon.
