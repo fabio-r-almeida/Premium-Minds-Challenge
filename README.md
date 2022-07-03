@@ -23,9 +23,13 @@
 
 ## The following files need NodeJS to be installed and ready to be used.
 ``` npm install```
+![npm Install](https://raw.githubusercontent.com/fabio-r-almeida/Premium-Minds-Challenge/main/Images/Output%20User.png?token=GHSAT0AAAAAABWBIQAV5UQU2B6NMMCBDRPEYWBUXKQ)
 
 ## To run the code and use costum inputs
 ``` node index.js ```
+
+![User Output](https://raw.githubusercontent.com/fabio-r-almeida/Premium-Minds-Challenge/main/Images/Output%20User.png?token=GHSAT0AAAAAABWBIQAV5UQU2B6NMMCBDRPEYWBUXKQ)
+
 
 ## To run the test
 ``` npm test```
