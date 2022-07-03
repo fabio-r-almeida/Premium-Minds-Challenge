@@ -22,7 +22,7 @@
 
 
 ## The following files need NodeJS to be installed and ready to be used.
-``` 
+```node
 npm install
 ```
 
