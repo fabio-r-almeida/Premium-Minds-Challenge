@@ -1,4 +1,4 @@
-# Premium-Minds-Challenge
+# Premium Minds Challenge
 
 # Challenge 
 
