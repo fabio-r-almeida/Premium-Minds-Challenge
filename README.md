@@ -11,6 +11,14 @@
 > O que queremos saber é: começando com um mundo cheio de pokémons (um em cada casa!), quantos
 > pokémons o Ash apanha para uma dada sequência de movimentos?
 
+## Formato do input
+>O programa deve ler uma linha do stdin, que contém uma sequência de movimentos. Cada movimento é
+>descrito por uma letra N, S, Eou O(respetivamente: norte, sul, este, oeste).
+## Formato do output
+>O programa deve escrever uma linha para o stdout, apenas com um número: quantos pokémons o Ash
+>apanhou?
+
+
 
 
 ## The following files need NodeJS to be installed and ready to be used.
