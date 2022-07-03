@@ -28,6 +28,7 @@
 
 ## To run the code and use custom inputs
 ``` node index.js ```
+> prompt: path: NNSEOSE
 
 ![User Output](https://raw.githubusercontent.com/fabio-r-almeida/Premium-Minds-Challenge/main/Images/Output%20User.png?token=GHSAT0AAAAAABWBIQAV5UQU2B6NMMCBDRPEYWBUXKQ)
 
