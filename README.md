@@ -29,3 +29,4 @@
 
 ## To run the test
 ``` npm test```
+![Test output](https://raw.githubusercontent.com/fabio-r-almeida/Premium-Minds-Challenge/main/Images/Test%20output.png?token=GHSAT0AAAAAABWBIQAUOWSS4YJMBLQ26NGQYWBUVKQ)
