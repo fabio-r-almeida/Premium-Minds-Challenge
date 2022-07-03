@@ -29,7 +29,7 @@
 ## To run the code and use custom inputs
 ``` 
 node index.js 
-prompt: path: NNSEOSE
+NNSEOSE
 ```
 
 
